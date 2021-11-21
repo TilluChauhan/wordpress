@@ -1,0 +1,8 @@
+dfjtg<?php	
+	$arr=array(
+	'menu_class'=>'l',
+	'theme_location'=>'footer',
+	'container_class' => 'myclass',
+);
+	wp_nav_menu($arr);
+?>
